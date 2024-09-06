@@ -12,10 +12,10 @@ namespace FirstHttpFunctionApp
     public static class DatabaseTrigger
     {
         // Visit https://aka.ms/sqlbindingsinput to learn how to use this input binding
-    [FunctionName("DatabaseTrigger")]
+    [FunctionName("DatabaseTrigger1")]
         public static IActionResult Run(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = null)] HttpRequest req,
-            [Sql("SELECT * FROM [dbo].[product]", connectionStringSetting: "SqlConnectionString")] IEnumerable<Object> result,
+            [Sql("Select * from products", connectionStringSetting: "SqlConnectionString")] IEnumerable<Object> result,
             ILogger log)
         {
             log.LogInformation("C# HTTP trigger with SQL Input Binding function processed a request.");
@@ -24,13 +24,13 @@ namespace FirstHttpFunctionApp
         }
     }
 
-	public static class DatabaseTrigger3
+	public static class DatabaseTrigger2
 	{
 		// Visit https://aka.ms/sqlbindingsinput to learn how to use this input binding
-		[FunctionName("DatabaseTrigger3")]
+		[FunctionName("DatabaseTrigger2")]
 		public static IActionResult Run(
 				[HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = null)] HttpRequest req,
-				[Sql("SELECT * FROM [dbo].[product]", "SqlConnectionString")] IEnumerable<Object> result,
+				[Sql("select * from products", "SqlConnectionString")] IEnumerable<Object> result,
 				ILogger log)
 		{
 			log.LogInformation("C# HTTP trigger with SQL Input Binding function processed a request.");

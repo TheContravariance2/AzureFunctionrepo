@@ -11,13 +11,13 @@ namespace FirstHttpFunctionApp
 	public class TimerTriggerChangeTracking
 	{
 		[FunctionName("TimerTriggerChangeTracking")]
-		public static void  Run([TimerTrigger("0 */1 * * * *")] TimerInfo myTimer, ILogger log, [Sql("SELECT * FROM [dbo].[product]", "SqlConnectionString")] IEnumerable<Object> result)
+		public static void  Run([TimerTrigger("0 */1 * * * *")] TimerInfo myTimer, ILogger log, [Sql("select * from products", "SqlConnectionString")] IEnumerable<Object> result)
 		{
 			log.LogInformation($"C# Timer trigger function executed at: {DateTime.Now}");
 
 			string connectionString = "SqlConnectionString";
 
-			string trackingQuery = "select * from dbo.product";
+			string trackingQuery = "select * from products";
 			foreach (var item in result)
 			{
 				log.LogInformation($"Change detected:{item} ");
