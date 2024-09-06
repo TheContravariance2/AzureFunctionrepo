@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\timertriggerchangetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\timertriggerchangetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\databasetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\databasetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\databasetrigger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\databasetrigger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\properties\\servicedependencies.firsthttpfunctionappchandan - zip deploy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\properties\\servicedependencies.firsthttpfunctionappchandan - zip deploy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|d:\\study\\azure functions\\firsthttpfunctionapp\\firsthttpfunctionapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56AD6315-FA25-4747-A721-D768D7621BCF}|FirstHttpFunctionApp\\FirstHttpFunctionApp.csproj|solutionrelative:firsthttpfunctionapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\local.settings.json",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\local.settings.json",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\local.settings.json",
+              "RelativeToolTip": "FirstHttpFunctionApp\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T09:03:15.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\Properties\\serviceDependencies.local.json",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "FirstHttpFunctionApp\\Properties\\serviceDependencies.local.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T08:36:30.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "serviceDependencies.FirstHttpFunctionAppchandan - Zip Deploy.json",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Properties\\serviceDependencies.FirstHttpFunctionAppchandan - Zip Deploy.json",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\Properties\\serviceDependencies.FirstHttpFunctionAppchandan - Zip Deploy.json",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Properties\\serviceDependencies.FirstHttpFunctionAppchandan - Zip Deploy.json",
+              "RelativeToolTip": "FirstHttpFunctionApp\\Properties\\serviceDependencies.FirstHttpFunctionAppchandan - Zip Deploy.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T08:36:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimerTriggerChangeTracking.cs",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\TimerTriggerChangeTracking.cs",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\TimerTriggerChangeTracking.cs",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\TimerTriggerChangeTracking.cs",
+              "RelativeToolTip": "FirstHttpFunctionApp\\TimerTriggerChangeTracking.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwA0AAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:18:15.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseTrigger2.cs",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\DatabaseTrigger2.cs",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\DatabaseTrigger2.cs",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\DatabaseTrigger2.cs",
+              "RelativeToolTip": "FirstHttpFunctionApp\\DatabaseTrigger2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:14:40.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseTrigger.cs",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\DatabaseTrigger.cs",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\DatabaseTrigger.cs",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\DatabaseTrigger.cs",
+              "RelativeToolTip": "FirstHttpFunctionApp\\DatabaseTrigger.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:08:06.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Dockerfile",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\Dockerfile",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Dockerfile",
+              "RelativeToolTip": "FirstHttpFunctionApp\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T09:41:36.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FirstHttpFunctionApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T09:00:45.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Function1.cs",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\Function1.cs",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Function1.cs",
+              "RelativeToolTip": "FirstHttpFunctionApp\\Function1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:58:33.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "host.json",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\host.json",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\host.json",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\host.json",
+              "RelativeToolTip": "FirstHttpFunctionApp\\host.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T09:00:55.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "FirstHttpFunctionApp\\Properties\\serviceDependencies.json",
+              "ToolTip": "D:\\Study\\Azure Functions\\FirstHttpFunctionApp\\FirstHttpFunctionApp\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "FirstHttpFunctionApp\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T09:33:45.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
